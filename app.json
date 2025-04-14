@@ -3,6 +3,9 @@
     "name": "UserListApp",
     "slug": "UserListApp",
     "version": "1.0.0",
+    "expo": {
+      "platforms": ["ios", "android", "web"]
+    },
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
